@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #edf7ff;
+}
+.title, .titleFinal{
+    font-family: 'MuseoModerno' ;
+    color: #0a2ff1;
+    font-size: 60px;
+    margin-top: 20px;
+}   
+
+.titleFinal{
+    color:#8a9af1;
+}
+
+.subtitle{
+    font-family: 'MuseoModerno', regular;
+    color: #0a2ff1;
+    font-size: 30px;
+}
+p,li{
+    color: #04146c;
+}
+
+.container{
+    margin-top: 20px;
+}
